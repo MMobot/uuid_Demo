@@ -12,13 +12,13 @@ English | [简体中文](./README-zh.md)
 
 ## About
 
-This project will be updated for a long time to learn the knowledge of [Python Library](https://docs.python.org/zh-cn/3/library/index.html) library
+This project will be updated for a long time to learn the knowledge of [Python Library](https://docs.python.org/zh-cn/3/library/index.html)
 
 knowledge keeps fucking, code keeps knocking， `Click,click,click...`
 
 All are the summary of the author's personal summary, rookies have a great dream💫
 
-Speed up!; Come on! 💪💪
+Speed up !! Come on ! 💪💪
 
 ## fucked lib
 
